@@ -1,0 +1,28 @@
+.block{
+  border:1;
+  border-collapse:collapse;
+  height:20px;
+  width:20px;
+  background-color:black;
+
+}
+
+
+.row:nth-child(odd){
+
+   background-color:white;
+
+
+}
+.col:nth-child(even){
+  /*border:1;*/
+   /*border-collapse:collapse;*/
+   background-color:black;
+
+
+}
+
+/*.block:nth-child(odd){
+  background-color:white;
+
+}*/
